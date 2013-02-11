@@ -1,3 +1,3 @@
 module OrmAdapterSequel
-  VERSION = "0.1.0"
+  VERSION = "100.1.0"
 end
